@@ -1,1 +1,1 @@
-![image](https://raw.github.com/xueshaobo/images/master/APP/1.jpg)
+![image](https://raw.github.com/xueshaobo/images/raw/master/APP/1.jpg)
