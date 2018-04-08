@@ -1,1 +1,1 @@
-![logo](https://github.com/xueshaobo/images/blob/master/APP/1.jpg)
+![logo](https://github.com/xueshaobo/images/raw/master/APP/1.jpg)
